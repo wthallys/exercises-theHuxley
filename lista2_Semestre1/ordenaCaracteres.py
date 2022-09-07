@@ -1,0 +1,6 @@
+lista1 = input().split()
+lista2 = input().split()
+lista1.sort()
+lista2.sort()
+print(' '.join(lista1))
+print(' '.join(lista2))
